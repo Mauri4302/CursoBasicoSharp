@@ -1,0 +1,14 @@
+C:\Users\jose4\Documents\CursosC#\C#Basico\ContactWithC#\ConditionalsAndLoops\bin\Debug\net8.0\ConditionalsAndLoops.exe
+C:\Users\jose4\Documents\CursosC#\C#Basico\ContactWithC#\ConditionalsAndLoops\bin\Debug\net8.0\ConditionalsAndLoops.deps.json
+C:\Users\jose4\Documents\CursosC#\C#Basico\ContactWithC#\ConditionalsAndLoops\bin\Debug\net8.0\ConditionalsAndLoops.runtimeconfig.json
+C:\Users\jose4\Documents\CursosC#\C#Basico\ContactWithC#\ConditionalsAndLoops\bin\Debug\net8.0\ConditionalsAndLoops.dll
+C:\Users\jose4\Documents\CursosC#\C#Basico\ContactWithC#\ConditionalsAndLoops\bin\Debug\net8.0\ConditionalsAndLoops.pdb
+C:\Users\jose4\Documents\CursosC#\C#Basico\ContactWithC#\ConditionalsAndLoops\obj\Debug\net8.0\ConditionalsAndLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose4\Documents\CursosC#\C#Basico\ContactWithC#\ConditionalsAndLoops\obj\Debug\net8.0\ConditionalsAndLoops.AssemblyInfoInputs.cache
+C:\Users\jose4\Documents\CursosC#\C#Basico\ContactWithC#\ConditionalsAndLoops\obj\Debug\net8.0\ConditionalsAndLoops.AssemblyInfo.cs
+C:\Users\jose4\Documents\CursosC#\C#Basico\ContactWithC#\ConditionalsAndLoops\obj\Debug\net8.0\ConditionalsAndLoops.csproj.CoreCompileInputs.cache
+C:\Users\jose4\Documents\CursosC#\C#Basico\ContactWithC#\ConditionalsAndLoops\obj\Debug\net8.0\ConditionalsAndLoops.dll
+C:\Users\jose4\Documents\CursosC#\C#Basico\ContactWithC#\ConditionalsAndLoops\obj\Debug\net8.0\refint\ConditionalsAndLoops.dll
+C:\Users\jose4\Documents\CursosC#\C#Basico\ContactWithC#\ConditionalsAndLoops\obj\Debug\net8.0\ConditionalsAndLoops.pdb
+C:\Users\jose4\Documents\CursosC#\C#Basico\ContactWithC#\ConditionalsAndLoops\obj\Debug\net8.0\ConditionalsAndLoops.genruntimeconfig.cache
+C:\Users\jose4\Documents\CursosC#\C#Basico\ContactWithC#\ConditionalsAndLoops\obj\Debug\net8.0\ref\ConditionalsAndLoops.dll

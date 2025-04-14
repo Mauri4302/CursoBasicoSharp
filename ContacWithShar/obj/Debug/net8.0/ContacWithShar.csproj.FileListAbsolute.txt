@@ -1,0 +1,14 @@
+C:\Users\jose4\Documents\CursosC#\C#Basico\ContactWithC#\ContacWithShar\bin\Debug\net8.0\ContacWithShar.exe
+C:\Users\jose4\Documents\CursosC#\C#Basico\ContactWithC#\ContacWithShar\bin\Debug\net8.0\ContacWithShar.deps.json
+C:\Users\jose4\Documents\CursosC#\C#Basico\ContactWithC#\ContacWithShar\bin\Debug\net8.0\ContacWithShar.runtimeconfig.json
+C:\Users\jose4\Documents\CursosC#\C#Basico\ContactWithC#\ContacWithShar\bin\Debug\net8.0\ContacWithShar.dll
+C:\Users\jose4\Documents\CursosC#\C#Basico\ContactWithC#\ContacWithShar\bin\Debug\net8.0\ContacWithShar.pdb
+C:\Users\jose4\Documents\CursosC#\C#Basico\ContactWithC#\ContacWithShar\obj\Debug\net8.0\ContacWithShar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose4\Documents\CursosC#\C#Basico\ContactWithC#\ContacWithShar\obj\Debug\net8.0\ContacWithShar.AssemblyInfoInputs.cache
+C:\Users\jose4\Documents\CursosC#\C#Basico\ContactWithC#\ContacWithShar\obj\Debug\net8.0\ContacWithShar.AssemblyInfo.cs
+C:\Users\jose4\Documents\CursosC#\C#Basico\ContactWithC#\ContacWithShar\obj\Debug\net8.0\ContacWithShar.csproj.CoreCompileInputs.cache
+C:\Users\jose4\Documents\CursosC#\C#Basico\ContactWithC#\ContacWithShar\obj\Debug\net8.0\ContacWithShar.dll
+C:\Users\jose4\Documents\CursosC#\C#Basico\ContactWithC#\ContacWithShar\obj\Debug\net8.0\refint\ContacWithShar.dll
+C:\Users\jose4\Documents\CursosC#\C#Basico\ContactWithC#\ContacWithShar\obj\Debug\net8.0\ContacWithShar.pdb
+C:\Users\jose4\Documents\CursosC#\C#Basico\ContactWithC#\ContacWithShar\obj\Debug\net8.0\ContacWithShar.genruntimeconfig.cache
+C:\Users\jose4\Documents\CursosC#\C#Basico\ContactWithC#\ContacWithShar\obj\Debug\net8.0\ref\ContacWithShar.dll

@@ -1,0 +1,127 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace ConditionalsAndLoops
+{
+    public class Condicional
+    {
+        public string? Nombre { get; set; }
+        public string? contrasena { get; set; }
+        // Vamos a practicar en metodos usando condicionales
+        // Usando if, else if y else
+        // Usando el operador ternario
+        public void Condicionales(int numero)
+        {
+            if (numero > 0)
+            {
+                Console.WriteLine("El número es positivo");
+            }
+            else if (numero < 0)
+            {
+                Console.WriteLine("El número es negativo");
+            }
+            else
+            {
+                Console.WriteLine("El número es cero");
+            }
+
+            // Usando el operador ternario
+            string resultado = numero > 0 ? "El número es positivo" : numero < 0 ? "El número es negativo" : "El número es cero";
+            Console.WriteLine(resultado);
+        }
+
+        public string Condicionales(string nombre)
+        {
+            // Usando el operador ternario
+            string resultado = string.IsNullOrEmpty(nombre) ? "El nombre está vacío" : "El nombre no está vacío";
+            return resultado;
+        }
+
+        public void Condicionales(int numero1, int numero2)
+        {
+            if (numero1 > numero2)
+            {
+                Console.WriteLine("El número 1 es mayor que el número 2");
+            }
+            else if (numero1 < numero2)
+            {
+                Console.WriteLine("El número 1 es menor que el número 2");
+            }
+            else
+            {
+                Console.WriteLine("Los números son iguales");
+            }
+        }
+
+        public List<string> Condicionales(List<string> nombres)
+        {
+            List<string> nombresNoVacios = new List<string>();
+            foreach (string nombre in nombres)
+            {
+                if (!string.IsNullOrEmpty(nombre))
+                {
+                    nombresNoVacios.Add(nombre);
+                }
+            }
+            return nombresNoVacios;
+        }
+
+        public int Condicionales(string palabra, string oracion)
+        {
+            if(!string.IsNullOrEmpty(oracion))
+            {
+                int contador = 0;
+                string[] palabras = oracion.Split(' ', ',', '.', ',', ';', ':', '!', '?', '\n', '\r');
+                foreach (string p in palabras)
+                {
+                    if (p.Equals(palabra, StringComparison.OrdinalIgnoreCase))
+                    {
+                        contador++;
+                    }
+                }
+                
+                return contador;
+            }
+            else
+            {
+                Console.WriteLine("La oración está vacía");
+                return 0;
+            }
+        }
+
+        public void login(string nombre, string contrasena)
+        {
+            if (nombre == "Juan" && contrasena == "1234")
+            {
+                Console.WriteLine("Bienvenido " + nombre);
+            }
+            else
+            {
+                Console.WriteLine("Usuario o contraseña incorrectos");
+            }
+        }
+
+        // Usando switch
+        public void CondicionalesSwitch(int numero)
+        {
+            switch (numero)
+            {
+                case 1:
+                    Console.WriteLine("El número es uno");
+                    break;
+                case 2:
+                    Console.WriteLine("El número es dos");
+                    break;
+                case 3:
+                    Console.WriteLine("El número es tres");
+                    break;
+                default:
+                    Console.WriteLine("El número no es uno, dos o tres");
+                    break;
+            }
+        }
+        
+    }
+}
