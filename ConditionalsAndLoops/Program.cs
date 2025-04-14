@@ -22,3 +22,7 @@ Console.WriteLine(string.Join(", ", result));
 int contador = condicionales.Condicionales("hola","hola hola, que vas hacer hoy?");
 Console.WriteLine("Contador: "+contador);
 condicionales.login("Juan", "123");
+condicionales.DiasDeLaSemana(1);
+condicionales.DiasDeLaSemana(8);
+condicionales.MesesDelAño(1);
+condicionales.MesesDelAño(13);
