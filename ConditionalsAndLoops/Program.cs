@@ -26,3 +26,10 @@ condicionales.DiasDeLaSemana(1);
 condicionales.DiasDeLaSemana(8);
 condicionales.MesesDelAño(1);
 condicionales.MesesDelAño(13);
+
+// Bucles
+Bucle bucle= new Bucle();
+bucle.ContadorAscendente(10);
+bucle.SumaDeNumeros(5);
+bucle.ValidacionDeEntrada(0);
+bucle.ValidarPassword("");

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ContacWithShar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+857a7ce35fb829693ba3234b1460478ebb9a9c60")]
 [assembly: System.Reflection.AssemblyProductAttribute("ContacWithShar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ContacWithShar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
